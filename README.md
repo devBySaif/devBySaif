@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=false&vCenter=true&width=500&lines=Hello%2C+I'm+Saif+Zaman;I'm+a+CS+Student;Full-Stack+Developer;Always+Learning+%26+Building+🚀)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=F97316&width=700&lines=👋+HELLO%2C+I'M+SAIF+ZAMAN;🚀+FULL-STACK+DEVELOPER;🧠+AI%2FML+EXPLORER;⚡+BUILDING+THE+FUTURE+WITH+CODE)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👨‍💻 CS Student | Full-Stack Developer<br>🚀 Building web applications & exploring AI/ML<br>💡 Learning, building, and solving problems every day<br>📚 JavaScript • TypeScript • NestJS • PHP • MySQL<br>🔬 Interested in AI, LLMs & Software Engineering<br>
