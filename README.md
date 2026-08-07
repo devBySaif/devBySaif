@@ -1,3 +1,6 @@
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=false&vCenter=true&width=500&lines=Hello%2C+I'm+Saif+Zaman;I'm+a+CS+Student;Full-Stack+Developer;Always+Learning+%26+Building+🚀)
+
 # 💫 About Me:
 👨‍💻 CS Student | Full-Stack Developer<br>🚀 Building web applications & exploring AI/ML<br>💡 Learning, building, and solving problems every day<br>📚 JavaScript • TypeScript • NestJS • PHP • MySQL<br>🔬 Interested in AI, LLMs & Software Engineering<br>
 
