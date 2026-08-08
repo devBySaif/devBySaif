@@ -1,7 +1,3 @@
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=FF5722&width=900&height=80&lines=🧑‍💻+HELLO%2C+I%27M+SAIF+ZAMAN..!;🚀+FULL-STACK+DEVELOPER;🧠+AI%2FML+EXPLORER;⚡+BUILDING+THE+FUTURE+WITH+CODE)](https://git.io/typing-svg)
 
 
